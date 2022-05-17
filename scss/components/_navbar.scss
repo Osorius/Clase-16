@@ -1,0 +1,20 @@
+.navbar-brand{
+    margin-left: 70px;
+    .nav-item{
+        font-size: 15px;
+        a:hover{
+            border-radius: 3px;
+            background-color: rgb(0, 212, 219);
+    }
+        li{
+        transition: transform 1.5s, background-color 2s;
+        
+            li:hover{
+                transform: scale(1.2);
+                border-radius: 3px;
+                background-color: rgb(0, 212, 219);
+                    }
+
+        }              
+}
+}
