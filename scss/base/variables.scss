@@ -6,6 +6,7 @@ $colores:(
     color-md: rgb(177, 0, 177)
 );
 
+
 /* EXTEND */
 %flex-center{
     display: flex;
@@ -20,4 +21,8 @@ $colores:(
     align-items: $align;
 
 };
+
+$color-body:rgb(255, 255, 255)
+;
+$font-titulos: font-family 'Francois One', sans-serif;  
 

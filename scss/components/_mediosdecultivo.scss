@@ -1,3 +1,6 @@
-.text-agar, .text-honeytek, .text-granomicelado, .text-bulkcompuesto, .quienes-somos, .qshero , .calle , .ubi{
+.text-agar, .title-productos, .text-honeytek, .text-granomicelado, .text-bulkcompuesto, .quienes-somos, .qshero , .calle , .ubi{
     color: map-get($colores,color-md);
+}
+.title-productos, .quienes-somos{
+    font-family: $font-titulos;
 }

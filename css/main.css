@@ -7,11 +7,17 @@
 .nav-color {
   background-color: #000000; }
 
-.text-agar, .text-honeytek, .text-granomicelado, .text-bulkcompuesto, .quienes-somos, .qshero, .calle, .ubi {
+.text-agar, .title-productos, .text-honeytek, .text-granomicelado, .text-bulkcompuesto, .quienes-somos, .qshero, .calle, .ubi {
   color: #b100b1; }
+
+.title-productos, .quienes-somos {
+  font-family: font-family "Francois One", sans-serif; }
 
 .tabla {
   display: flex;
   direction: column;
   justify-content: flex-start;
   align-items: center; }
+
+.body {
+  background-color: white; }
